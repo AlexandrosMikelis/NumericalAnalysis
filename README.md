@@ -4,6 +4,7 @@ Let's say we have an equation that is equal to 0.We need to find the roots of th
 always able to solve them in paper, we need to use some methods you can see below.This methods can be written in a program and make our life easier.
    * General Succissive Approximation Method </br>
    ![GSA](https://user-images.githubusercontent.com/62079690/99472487-61830b80-2951-11eb-996b-126d7424921e.PNG)</br>
+   In this method you need to isolate independent variable x from your starting equation and make the above equation you see. </br>
    * Newton-Ramson Method </br>
    ![N-R](https://user-images.githubusercontent.com/62079690/99472810-10274c00-2952-11eb-926f-8033388aabe4.PNG)</br>
    * Regula Falsi </br>
