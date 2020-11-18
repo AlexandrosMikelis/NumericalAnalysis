@@ -1,2 +1,2 @@
 # NumericalAnalysis
-Numerical Analysis in C Programming
+## Numerical Analysis in C Programming
