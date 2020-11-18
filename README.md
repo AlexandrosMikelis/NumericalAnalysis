@@ -7,7 +7,7 @@
    * Regula Falsi </br>
       ![RegulaFalsi1](https://user-images.githubusercontent.com/62079690/99473072-8461ef80-2952-11eb-9607-bec3606b18f5.PNG) </br>
       With a parameter of : </br>
-      ![RegulaFalsi2](https://user-images.githubusercontent.com/62079690/99473071-8461ef80-2952-11eb-9a5c-305691c5b063.PNG) </br>
+      &nbsp;&nbsp;&nbsp;&nbsp;![RegulaFalsi2](https://user-images.githubusercontent.com/62079690/99473071-8461ef80-2952-11eb-9a5c-305691c5b063.PNG) </br>
 
         
 
