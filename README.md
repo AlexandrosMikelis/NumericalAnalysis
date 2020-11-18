@@ -1,6 +1,7 @@
 # Numerical Analysis in C Programming
 ### Roots Of Non-Linear Equations :
-Let's say we have an equation that is equal to 0.We need to find the roots of this equation but we aren't always able to solve them in paper but we need to use some methods you can see below.
+Let's say we have an equation that is equal to 0.We need to find the roots of this equation but we aren't 
+always able to solve them in paper but we need to use some methods you can see below.
    * General Succissive Approximation Method </br>
    ![GSA](https://user-images.githubusercontent.com/62079690/99472487-61830b80-2951-11eb-996b-126d7424921e.PNG)</br>
    * Newton-Ramson Method </br>
